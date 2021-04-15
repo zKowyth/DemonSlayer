@@ -4,7 +4,7 @@ A spigot plugin that adds things of the Demon Slayer Anime
 
 ## Installation
 
-1. Download the latest release from [github](https://github.com/zDoctor-Dev/DemonSlayer/releases) or from [spigot](a).
+1. Download the latest release from [github](https://github.com/zDoctor-Dev/DemonSlayer/releases) or from [spigot]().
 2. Put the jar file in the "plugins" folder of your server.
 3. Start/Restart your server.
 
