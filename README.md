@@ -1,6 +1,10 @@
-# AdvancedModeration
+# DemonSlayer
 
 A spigot plugin that adds things of the Demon Slayer Anime
+
+## Features
+
+Features will be added here as soon as they come out.
 
 ## Installation
 
