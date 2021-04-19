@@ -1,0 +1,8 @@
+name: DemonSlayer
+main: ml.zdoctor.DemonSlayer
+version: 1.0.0
+description: A spigot plugin that adds things of the Demon Slayer Anime
+commands:
+  ability:
+    description: Select your ability
+    permission: demonslayer.ability.gui

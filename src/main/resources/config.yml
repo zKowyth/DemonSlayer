@@ -1,0 +1,5 @@
+select-ability-inventory-title: "&2Select your ability"
+#players "database"
+players:
+  zDoctor_:
+    ability: water
